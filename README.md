@@ -3,7 +3,7 @@
 - 💥 I am looking to collaborate on creating responsive, powerful front-end websites
 - ⚡ Fun fact - Moons can have moons, and they are called "moonmoons."
 - 💬 Ask me about how I can be your next front-end developer!
-- 📧 How to reach me: / peterwchusid@gmail.com / [peterchusid.com] / Twitter: @peterchusid / https://www.linkedin.com/in/peterchusid/ /  Discord: peter101#9170
+- 📧 How to reach me: / peterwchusid@gmail.com / [[peterchusid.com]](https://peterchusid.com/) / Twitter: @peterchusid / https://www.linkedin.com/in/peterchusid/ /  Discord: peter101#9170
 <!--
 **pwchusid/pwchusid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
